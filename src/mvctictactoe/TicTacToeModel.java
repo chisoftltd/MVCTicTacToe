@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Benjamin Chinwe 2016
+ * @author Benjamin Chinwe 2018
  */
 public class TicTacToeModel {
 
