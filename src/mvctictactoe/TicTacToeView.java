@@ -23,7 +23,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author Benjamin Chinwe 2016
+ * @author Benjamin Chinwe 2018
  */
 public class TicTacToeView extends JFrame implements Observer {
 
