@@ -9,7 +9,7 @@ import java.util.Random;
 
 /**
  *
- * @author Benjamin Chinwe 2016. A singleton class.
+ * @author Benjamin Chinwe 2018. A singleton class.
  */
 public class TicTacToeSingleton {
 
