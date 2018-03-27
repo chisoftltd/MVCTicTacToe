@@ -10,7 +10,7 @@ import java.awt.event.WindowListener;
 
 /**
  *
- * @author Chisoft
+ * @author Benjamin Chinwe 2018
  */
 class WindowDestroyer implements WindowListener {
     
