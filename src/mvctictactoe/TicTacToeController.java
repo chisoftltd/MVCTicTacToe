@@ -17,7 +17,7 @@ import javax.swing.JButton;
 
 /**
  *
- * @author Benjamin Chinwe 2016
+ * @author Benjamin Chinwe 2018
  */
 public class TicTacToeController extends Observable {
 
